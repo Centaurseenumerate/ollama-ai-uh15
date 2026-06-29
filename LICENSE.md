@@ -1,4 +1,4 @@
-# 
+# Atualizado Ollama fluxo de trabalho. Com integração de API e integração com banco de dados vetorial — otimizado para máximo desempenho e eficiência.
 
 
 
